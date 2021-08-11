@@ -1,0 +1,243 @@
+<data><item id="language_code"><t>id</t></item>
+<item id="language_name"><t>INDONESIA</t></item>
+<item id="language_author"><t>Papin Faizal</t></item>
+<item id="wrap_hyphen"><t>-</t></item>
+<item id="created_by"><t>dibuat oleh Lucas Pope</t></item>
+<item id="papers_please"><t>Tolong kertasnya.</t></item>
+<item id="protocol_violated"><t>Protokol dilanggar.</t></item>
+<item id="unauth_confiscation"><t>Penyitaan paspor yang tidak disahkan</t></item>
+<item id="missing_reason"><t>Alasan penolakan tidak diberikan</t></item>
+<item id="citation_warning"><t>PERINGATAN DIBERIKAN - TANPA PINALTI</t></item>
+<item id="citation_lastwarning"><t>PERINGATAN TERAKHIR - TANPA PINALTI</t></item>
+<item id="citation_penalty"><t>PINALTI DIBEBANKAN - $0 KREDIT</t></item>
+<item id="border_next"><t>BERIKUTNYA!</t></item>
+<item id="border_bomber"><t>UNTUK KOLECHIA!</t></item>
+<item id="border_comeback"><t>KEMBALI BESOK JAM 6 PAGI</t></item>
+<item id="border_announce0"><t>IZIN TIDAK PASTI DIBERIKAN</t></item>
+<item id="border_announce1"><t>SIAPKAN DOKUMEN ANDA</t></item>
+<item id="border_announce2"><t>ARSTOTZKA MENERIMA ANDA</t></item>
+<item id="border_guardout"><t>KELUAR!</t></item>
+<item id="border_elisa"><t>ELISA!</t></item>
+<item id="family_son_budget"><t>ANAK</t></item>
+<item id="family_wife_budget"><t>ISTRI</t></item>
+<item id="family_niece_budget"><t>KEPONAKAN</t></item>
+<item id="family_uncle_budget"><t>PAMAN</t></item>
+<item id="family_mil_budget"><t>MERTUA</t></item>
+<item id="family_son_status"><t>Anak</t></item>
+<item id="family_wife_status"><t>Istri</t></item>
+<item id="family_niece_status"><t>Keponakan</t></item>
+<item id="family_uncle_status"><t>Paman</t></item>
+<item id="family_mil_status"><t>Ibu Mertua</t></item>
+<item id="family_son_message"><t>anak</t></item>
+<item id="family_wife_message"><t>istri</t></item>
+<item id="family_niece_message"><t>keponakan</t></item>
+<item id="family_uncle_message"><t>paman</t></item>
+<item id="family_mil_message"><t>ibu mertua</t></item>
+<item id="night_endof"><t>AKHIR DARI</t></item>
+<item id="night_day"><t>HARI $0</t></item>
+<item id="family_verysick_1"><t>Tanpa obat, $0mu akan mati.</t></item>
+<item id="family_verysick_many"><t>Anggota keluarga yang sakit parah akan mati tanpa obat.</t></item>
+<item id="family_sick_1"><t>Karena sedang sakit, $0mu butuh obat.</t></item>
+<item id="family_sick_many"><t>Keluargamu butuh obat.</t></item>
+<item id="family_died_1"><t>Ada anggota keluargamu yang meninggal, yaitu $0mu.</t></item>
+<item id="family_died_2"><t>Ada anggota keluargamu yang meninggal, yaitu $0 dan $1mu.</t></item>
+<item id="family_died_3"><t>Ada anggota keluargamu yang meninggal, yaitu $0, $1, dan $2mu.</t></item>
+<item id="family_died_4"><t>Ada anggota keluargamu yang meninggal, yaitu $0, $1, $2, dan $3mu.</t></item>
+<item id="family_died_5"><t>Ada anggota keluargamu yang meninggal, yaitu $0, $1, $2, $3, dan $4mu.</t></item>
+<item id="family_escape_with_0"><t>Anda meninggalkan semuanya.</t></item>
+<item id="family_escape_with_1"><t>Anda pergi ke Obristan bersama $0mu.</t></item>
+<item id="family_escape_with_2"><t>Anda pergi ke Obristan bersama $0 dan $1mu.</t></item>
+<item id="family_escape_with_3"><t>Anda pergi ke Obristan bersama $0, $1, dan $2mu.</t></item>
+<item id="family_escape_with_4"><t>Anda pergi ke Obristan bersama $0, $1, $2, dan $3mu.</t></item>
+<item id="family_escape_with_5"><t>Anda pergi ke Obristan bersama $0, $1, $2, $3, dan $4mu.</t></item>
+<item id="family_escape_without_1"><t>Ada yang bersiap untuk kembali ke Nirsk, yaitu $0mu.</t></item>
+<item id="family_escape_without_2"><t>Ada yang bersiap untuk kembali ke Nirsk, yaitu $0 dan $1mu.</t></item>
+<item id="family_escape_without_3"><t>Ada yang bersiap untuk kembali ke Nirsk, yaitu $0, $1, dan $2mu.</t></item>
+<item id="family_escape_without_4"><t>Ada yang bersiap untuk kembali ke Nirsk, yaitu $0, $1, $2, and $3mu.</t></item>
+<item id="family_escape_without_5"><t>Ada yang bersiap untuk kembali ke Nirsk, yaitu $0, $1, $2, $3, dan $4mu.</t></item>
+<item id="family_flee_final_0"><t>Obristan Diatas Segalanya</t></item>
+<item id="family_flee_final_1"><t>Keselamatan $0mu tidak diketahui.</t></item>
+<item id="family_flee_final_2"><t>Keselamatan $0 dan $1mu tidak diketahui.</t></item>
+<item id="family_flee_final_3"><t>Keselamatan $0, $1, dan $2mu tidak diketahui.</t></item>
+<item id="family_flee_final_4"><t>Keselematan $0, $1, $2, dan $3mu tidak diketahui.</t></item>
+<item id="family_flee_final_5"><t>Keselamatan $0, $1, $2, $3, dan $4mu tidak diketahui.</t></item>
+<item id="budget_savings"><t>SIMPANAN</t></item>
+<item id="budget_salary"><t>GAJI ($0)</t></item>
+<item id="budget_penalties"><t>PINALTI ($0)</t></item>
+<item id="budget_bribes"><t>UANG SUAP</t></item>
+<item id="budget_rent"><t>SEWA</t></item>
+<item id="budget_food"><t>MAKANAN</t></item>
+<item id="budget_heat"><t>KEHANGATAN</t></item>
+<item id="budget_medicine"><t>OBAT ($0)</t></item>
+<item id="budget_sleep"><t>TIDUR</t></item>
+<item id="budget_escape"><t>KABUR</t></item>
+<item id="menu_back"><t>KEMBALI</t></item>
+<item id="confirm_ok"><t>OKE</t></item>
+<item id="confirm_cancel"><t>BATAL</t></item>
+<item id="menu_mainmenu"><t>MENU UTAMA</t></item>
+<item id="menu_resume"><t>LANJUTKAN</t></item>
+<item id="menu_quit"><t>KELUAR</t></item>
+<item id="menu_done"><t>SELESAI</t></item>
+<item id="menu_story"><t>CERITA</t></item>
+<item id="menu_endless"><t>TANPA BATAS</t></item>
+<item id="menu_play"><t>MAIN</t></item>
+<item id="menu_fullscreen"><t>Layar Penuh</t></item>
+<item id="menu_nudity"><t>Telanjang</t></item>
+<item id="menu_easy"><t>Mode Mudah</t></item>
+<item id="menu_music"><t>Musik</t></item>
+<item id="menu_sound"><t>Suara</t></item>
+<item id="menu_dateformat"><t>Format Tanggal</t></item>
+<item id="menu_language"><t>Bahasa</t></item>
+<item id="menu_easytip"><t>+ 20 kredit per hari</t></item>
+<item id="menu_stats"><t>STATUS</t></item>
+<item id="menu_next"><t>SELANJUTNYA</t></item>
+<item id="menu_walktowork"><t>PERGI KERJA</t></item>
+<item id="menu_paused"><t>DIJEDA</t></item>
+<item id="menu_settings"><t>PENGATURAN</t></item>
+<item id="menu_credits"><t>KREDIT</t></item>
+<item id="menu_checkforupdates"><t>CEK PEMBARUAN</t></item>
+<item id="stats_text"><t>Bermain selama $time
+$processed wisatawan diproses
+$approved disetujui
+$denied ditolak
+$detained ditahan
+$citations peringatan diterima
+$stamps paspor distempel
+Akhir ke-$endnum dari $endtotal</t></item>
+<item id="steam_noinit"><t>GAGAL KONEKSI KE STEAM
+
+Jika masalah ini berlanjut, pasang ulang klien Steam.</t></item>
+<item id="steam_restartfailed"><t>GAGAL MEMULAI ULANG STEAM
+
+Jika masalah ini berlanjut, pasang ulang klien Steam.</t></item>
+<item id="steam_noconnect"><t>GAGAL KONEKSI KE STEAM
+
+Permainan ini akan mencoba memulai ulang melalui klien Steam.</t></item>
+<item id="steam_restart"><t>MULAI ULANG</t></item>
+<item id="load_title"><t>Pilih hari untuk melanjutkan atau mulai permainan baru</t></item>
+<item id="load_confirm_delete_single"><t>Hapus penyimpanan di hari ke-$0 ini?
+
+Tidak dapat dikembalikan setelah dihapus.</t></item>
+<item id="load_confirm_delete_multi"><t>Hapus kumpulan penyimpanan di hari ke-$0 sampai hari ke-$1?
+
+Tidak dapat dikembalikan setelah dihapus.</t></item>
+<item id="load_delete"><t>HAPUS</t></item>
+<item id="load_confirm_full"><t>Tempat penyimpanan penuh.
+
+Lanjutkan dari penyimpanan yang paling kanan atau hapus kumpulan simpanan untuk membebaskan ruang.</t></item>
+<item id="load_summary"><t>Hari $day
+"$news"
+
+$savings kredit, $family anggota keluarga,
+$tokens token, apartemen $apt</t></item>
+<item id="load_continue"><t>LANJUTKAN</t></item>
+<item id="emotion_happy"><t>SENANG</t></item>
+<item id="emotion_ok"><t>OKE</t></item>
+<item id="emotion_sad"><t>SEDIH</t></item>
+<item id="emotion_cold"><t>DEMAM</t></item>
+<item id="emotion_sick"><t>SAKIT</t></item>
+<item id="emotion_verysick"><t>SAKIT PARAH</t></item>
+<item id="emotion_dead"><t>MENINGGAL</t></item>
+<item id="emotion_hungry"><t>LAPAR</t></item>
+<item id="load_latest"><t>TERBARU</t></item>
+<item id="entry_approved"><t>IZIN DIBERIKAN</t></item>
+<item id="entry_denied"><t>IZIN DITOLAK</t></item>
+<item id="stamp_approved"><t>DISETUJUI</t></item>
+<item id="stamp_denied"><t>DITOLAK</t></item>
+<item id="stamp_reason"><t>ALASAN</t></item>
+<item id="booth_dragdocs"><t>LETAKKAN DOKUMEN DISINI</t></item>
+<item id="booth_highlight"><t>TANDAI PERBEDAAN</t></item>
+<item id="booth_discrepancy"><t>PELANGGARAN
+TERDETEKSI</t></item>
+<item id="booth_interrogate"><t>INTEROGASI</t></item>
+<item id="booth_matching"><t>DATA
+SAMA</t></item>
+<item id="booth_nocorrelation"><t>TIDAK ADA
+HUBUNGAN</t></item>
+<item id="booth_cleared"><t>PELANGGARAN
+DISELESAIKAN</t></item>
+<item id="env_clearforentry"><t>Pemohon tidak mempunyai kesalahan</t></item>
+<item id="env_lettermale"><t>L</t></item>
+<item id="env_letterfemale"><t>P</t></item>
+<item id="env_noalias"><t>Tidak punya nama alias</t></item>
+<item id="env_typochars"><t>aeiou,ie,iuy,pfv,lj,ck,dbh</t></item>
+<item id="endless_complete"><t>$style
+$course
+
+$time
+$score Points</t></item>
+<item id="endless_ranked"><t>Peringkat ke $0</t></item>
+<item id="endless_unlock"><t>Selesaikan mode cerita dengan pekerjaan anda yang lengkap untuk membuka mode tanpa batas</t></item>
+<item id="endless_wrongcode"><t>S A L A H</t></item>
+<item id="date_verbose"><t>$day $month $year</t></item>
+<item id="month_1"><t>Januari</t></item>
+<item id="month_2"><t>Februari</t></item>
+<item id="month_3"><t>Maret</t></item>
+<item id="month_4"><t>April</t></item>
+<item id="month_5"><t>Mei</t></item>
+<item id="month_6"><t>Juni</t></item>
+<item id="month_7"><t>Juli</t></item>
+<item id="month_8"><t>Agustus</t></item>
+<item id="month_9"><t>September</t></item>
+<item id="month_10"><t>Oktober</t></item>
+<item id="month_11"><t>November</t></item>
+<item id="month_12"><t>Desember</t></item>
+<item id="day_1"><t>1</t></item>
+<item id="day_2"><t>2</t></item>
+<item id="day_3"><t>3</t></item>
+<item id="day_4"><t>4</t></item>
+<item id="day_5"><t>5</t></item>
+<item id="day_6"><t>6</t></item>
+<item id="day_7"><t>7</t></item>
+<item id="day_8"><t>8</t></item>
+<item id="day_9"><t>9</t></item>
+<item id="day_10"><t>10</t></item>
+<item id="day_11"><t>11</t></item>
+<item id="day_12"><t>12</t></item>
+<item id="day_13"><t>13</t></item>
+<item id="day_14"><t>14</t></item>
+<item id="day_15"><t>15</t></item>
+<item id="day_16"><t>16</t></item>
+<item id="day_17"><t>17</t></item>
+<item id="day_18"><t>18</t></item>
+<item id="day_19"><t>19</t></item>
+<item id="day_20"><t>20</t></item>
+<item id="day_21"><t>21</t></item>
+<item id="day_22"><t>22</t></item>
+<item id="day_23"><t>23</t></item>
+<item id="day_24"><t>24</t></item>
+<item id="day_25"><t>25</t></item>
+<item id="day_26"><t>26</t></item>
+<item id="day_27"><t>27</t></item>
+<item id="day_28"><t>28</t></item>
+<item id="day_29"><t>29</t></item>
+<item id="day_30"><t>30</t></item>
+<item id="day_31"><t>31</t></item>
+<item id="bulletin_default"><t>Arstotzka
+Kementerian Imigrasi
+Buletin Resmi
+
+Inspektur,
+
+$content
+
+Hidup Arstotzka.</t></item>
+<item id="bulletin_notice"><t>Arstotzka
+Kementerian Imigrasi
+Buletin Resmi
+
+PEMBERITAHUAN:
+
+$content
+
+Hidup Arstotzka.</t></item>
+<item id="bulletin_endless"><t>Arstotzka
+Kementerian Imigrasi
+Buletin Resmi
+
+$style
+
+$course
+
+Hidup Arstotzka.</t></item>
+</data>
